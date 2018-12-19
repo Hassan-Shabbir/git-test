@@ -26,7 +26,7 @@
     press ~x~ on a hunk to stage it
 
 *** Commiting changes with a commit message
-    press ~cc~ (or ~\,cc~) and write the message
+    press ~cc~ (or =,cc=) and write the message
 
 *** Abort commit
     press ~,a~ to abort writing a commit message
