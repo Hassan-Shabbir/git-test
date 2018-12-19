@@ -1,0 +1,35 @@
+* The most important (ma)git commands
+** Create git directory
+   press ~SPC SPC magit-init~ to initialize a git directory
+   or do ~git init~ in the command line
+
+** Show magit
+   press ~SPC g s~ to show magit on the right
+
+** Show changes made in git
+   press ~SPC g t~ to show how the file changed over time
+
+** Within a magit buffer
+*** Delete changes
+    press ~x~ on the file to delete uncommitted changes to the file
+    press ~x~ on a hunk to discard it
+
+*** Expand/Collapse
+    press ~TAB~ to show/hide, works on files as well
+
+*** Unstage changes
+    press ~u~ to undo a staged file
+    press ~u~ on a hunk to unstage it
+
+*** Stage changes
+    press ~s~ on a file with unstaged changes to stage them
+    press ~x~ on a hunk to stage it
+
+*** Commiting changes with a commit message
+    press ~cc~ (or ~,cc~) and write the message
+
+*** Abort commit
+    press ~,a~ to abort writing a commit message
+
+*** Close buffer
+    press ~q~ to close the buffer
