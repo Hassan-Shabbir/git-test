@@ -11,3 +11,5 @@
 *** Commit changes with ~cc~
 *** Abort commit with ~,a~
 *** Close buffer with ~q~
+
+a change
