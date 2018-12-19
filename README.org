@@ -8,8 +8,6 @@
 *** Expand/Collapse sections/files with ~TAB~
 *** Unstage changes on a file/hunk with ~u~
 *** Stage changes on a file/hunk with ~s~
-*** Commit changes with ~cc~
+*** Commit changes with ~cc~ then ~,c~
 *** Abort commit with ~,a~
 *** Close buffer with ~q~
-
-a change
