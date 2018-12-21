@@ -5,6 +5,7 @@
 ** Within a magit buffer
 *** Refresh magit with ~gr~
 *** Expand/Collapse sections/files with ~TAB~
+*** Execute arbitrary git commands with ~!!~
 *** Delete file/hunk changes with ~x~
 *** Stage changes on a file/hunk with ~s~
 **** Unstage changes on a file/hunk with ~u~
