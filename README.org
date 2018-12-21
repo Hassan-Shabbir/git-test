@@ -5,12 +5,12 @@
 ** Within a magit buffer
 *** Refresh magit with ~gr~
 *** Expand/Collapse sections/files with ~TAB~
-*** Execute arbitrary git commands with ~!!~
+*** Execute arbitrary git command with ~!!~
 *** Delete file/hunk changes with ~x~
+*** Expand/Collapse sections/files with ~TAB~
+*** Unstage changes on a file/hunk with ~u~
 *** Stage changes on a file/hunk with ~s~
-**** Unstage changes on a file/hunk with ~u~
 *** Start commit with ~cc~
-**** Commit changes with ~,c~
-**** Abort commit with ~,a~
-*** Push changes to remote with ~pp~
+*** Commit changes with ~,c~
+*** Abort commit with ~,a~
 *** Close buffer with ~q~
